@@ -35,6 +35,8 @@ You can use the app easily by following the steps below.
 
 You can see the more details in "Assets" folder
 
+-----
+
 ### Test Gif with APK
 
 #### Solution with not hitting the wall
