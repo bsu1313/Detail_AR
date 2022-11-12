@@ -28,6 +28,12 @@ You can use the app easily by following the steps below.
 
 -----
 
+### Development process
+
+
+![3D_geometric_processing_1](Assets/development_proc.PNG)
+
+
 ### Test Gif with APK
 
 #### Solution with not hitting the wall
