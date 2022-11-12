@@ -33,6 +33,7 @@ You can use the app easily by following the steps below.
 
 ![3D_geometric_processing_1](Assets/development_proc.PNG)
 
+You can see the more details in "Assets" folder
 
 ### Test Gif with APK
 
